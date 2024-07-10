@@ -1,6 +1,6 @@
 # MemoryGame
  
-I used several patterns, methods and interfaces here
+I used several patterns, methods and interfaces here.
 Extension Methods: This allows you to add functionality to existing classes without changing their source code or using inheritance.
 Singleton Pattern: Ensuring a single instance of SaveLoadService for consistent data management.
 Facade Pattern: Simplifying interactions with subsystems (e.g., PlayerPrefs and JSON serialization).
