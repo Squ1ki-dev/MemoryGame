@@ -1,6 +1,7 @@
 # MemoryGame
 
 UNITY 2022.3.31f1
+I spent 5.5 hours for this assessment.
 
 I used several patterns, methods and interfaces here.
 Extension Methods: This allows you to add functionality to existing classes without changing their source code or using inheritance.
